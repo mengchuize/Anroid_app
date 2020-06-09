@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:id="@+id/g400">
+        <item
+            android:id="@+id/nullll"
+            android:title=""></item>
+    </group>
+    <group android:id="@+id/g1">
+        <item
+            android:id="@+id/username"
+            android:title="用户名"
+            android:icon="@drawable/username"
+            ></item>
+       </group>
+
+    <group android:id="@+id/g2">
+        <item
+            android:id="@+id/usermajor"
+            android:title="专业"
+            android:icon="@drawable/major"
+            ></item>
+    </group>
+    <group android:id="@+id/g3">
+        <item
+            android:id="@+id/userclass"
+            android:title="班级"
+            android:icon="@drawable/classs"
+            ></item>
+    </group>
+
+    <group android:id="@+id/g4">
+        <item
+            android:id="@+id/userscore"
+            android:title="积分"
+            android:icon="@drawable/score"
+            ></item>
+    </group>
+
+    <group android:id="@+id/g40">
+        <item
+            android:id="@+id/nulll"
+            android:title=""></item>
+    </group>
+    <group android:id="@+id/g6">
+        <item
+            android:id="@+id/changepassword"
+            android:title="修改密码"
+            android:icon="@drawable/change"
+            ></item>
+    </group>
+    <group android:id="@+id/g7">
+        <item
+            android:id="@+id/set"
+            android:title="设置"
+            android:icon="@drawable/set"
+            ></item>
+    </group>
+
+</menu>
